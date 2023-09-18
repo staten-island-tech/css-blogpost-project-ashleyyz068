@@ -1,0 +1,127 @@
+.top__head1 {
+    text-align: center;
+    margin-bottom: 2px;
+    margin-top: 20px;
+    font-size: 20;
+    font-family: 'Anton', sans-serif;
+    
+    
+    }
+    
+    
+    .top__head2 {
+    margin-top: 2px;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 70;
+    }
+    
+    
+    .top {
+    background-image: url(bakery2.jpg);
+    background-position: center;
+    font-family: 'Poppins', sans-serif;
+    padding: 50px 20px;
+    color: #1A1A1A;
+    }
+    
+    
+    .blogpost1 {
+    margin-top: 80px;
+    position: relative;
+    height: 640px;
+    width: 500px;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    background-color: #FFC7EA;
+    border: 3px solid #FFC7EA;
+    
+    
+    }
+    
+    
+    .blogpost2 {
+    margin-top: 80px;
+    position: relative;
+    height: 640px;
+    width: 500px;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    background-color: #D8B4F8;
+    border: 3px solid #D8B4F8;
+    
+    
+    }
+    .blogpost3 {
+    margin-top: 80px;
+    position: relative;
+    height: 640px;
+    width: 500px;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    background-color: #CAEDFF;
+    border: 3px solid #CAEDFF;
+    
+    
+    }
+    
+    
+    .shared-container {
+    height: 450px;
+    width: 450px;
+    left: 50%;
+    margin-top: 25px;
+    position: relative;
+    transform: translate(-50%, 0%);
+    overflow: hidden;
+    }
+    
+    
+    .shared-container img {
+    width: 100%;
+    height: 100%;
+    
+    
+    }
+    
+    
+    .shared-date {
+    margin-left: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 13;
+    color: #0E21A0;
+    }
+    
+    
+    .shared-title {
+    margin-left: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 25;
+    }
+    
+    
+    p {
+    margin-left: 10px;
+    font-family: 'Poppins', sans-serif;
+    line-height: 0%;
+    
+    
+    }
+    
+    
+    .shared-description {
+    margin-left: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    line-height: normal;
+    font-size: 15;
+    }
+    
+    
+    body {
+    margin-left: 10px;
+    font-family: 'Poppins', sans-serif;
+    background-color: #FBF0B2;
+    margin: 0;
+    }
+    
